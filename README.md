@@ -51,10 +51,10 @@ npm run dev
 
 ## 📜 License
 
-© 2026 Eymen SÜZGEÇ. All rights reserved.
+This project is licensed under the MIT License.
 
-This software and its source code are proprietary and confidential.  
-No part of this project may be copied, modified, distributed, or used for commercial purposes without prior written permission from the author.
+© 2026 Eymen SÜZGEÇ
+
 
 For licensing inquiries or collaboration requests, please contact:
 
