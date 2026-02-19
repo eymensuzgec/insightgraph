@@ -1,34 +1,44 @@
-# InsightGraph (Clean Build)
+# InsightGraph
+InsightGraph is a privacy-first concept intelligence platform.
 
-Privacy-first, AI-free concept intelligence — runs **entirely in the browser**.
+All analysis runs locally in the browser.
+No external AI API calls are required for core functionality.
 
-- No external AI / LLM API calls
-- Text never leaves the device (client-side analysis)
-- Multi-language UI (incl. Arabic RTL)
-- Local projects (autosave) + cloud-ready architecture
+---
 
-## Requirements
+## 🚀 Features
 
-- Node.js LTS (recommended)
-- npm (comes with Node)
+- Concept extraction
+- Keyword density analysis
+- Co-occurrence graph visualization
+- Logical clarity scoring
+- Text refinement engine
+- Optional AI-powered prompt builder
+- Multi-language support
 
-## Install & Run (Dev)
+---
+
+## 🔐 Privacy First
+
+InsightGraph performs text analysis directly in the browser.
+Your text is not sent to any server for core analysis.
+
+AI features are optional and require user-provided API access.
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- D3 (Graph)
+- Vite
+
+---
+
+## ⚙ Installation
 
 ```bash
 npm install
 npm run dev
-```
-
-Then open the printed local URL (usually `http://localhost:5173`).
-
-## Build (Production)
-
-```bash
-npm run build
-npm run preview
-```
-
-## Notes
-
-- Auth is **local-only** (for now) and designed to be swapped with Supabase/Firebase later.
-- Billing/Plans are UI + gating scaffolding only (no payments yet).
