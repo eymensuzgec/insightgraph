@@ -43,11 +43,15 @@ AI features are optional and require user-provided API access.
 npm install
 npm run dev
 
-# Note
 
-All rights to this project belong to Eymen SÜZGEÇ. It cannot be shared, updated, or planned without his permission.
+---
 
-This project is currently in the DEMO phase, and I haven't added a membership system yet. Please test it.
 
-You can help support the project or generate ideas for future updates via email:
+## Note
+
+- All rights to this project belong to Eymen SÜZGEÇ. It cannot be shared, updated, or planned without his permission.
+
+- This project is currently in the DEMO phase, and I haven't added a membership system yet. Please test it.
+
+- You can help support the project or generate ideas for future updates via email:
 eymenszg49@gmail.com
