@@ -56,6 +56,6 @@ This project is licensed under the MIT License.
 © 2026 Eymen SÜZGEÇ
 
 
-For licensing inquiries or collaboration requests, please contact:
+Please contact us for collaboration:
 
 📧 eymenszg49@gmail.com
