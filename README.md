@@ -1,44 +1,43 @@
 # InsightGraph
+
 InsightGraph is a privacy-first concept intelligence platform.
 
-All analysis runs locally in the browser.
-No external AI API calls are required for core functionality.
+It analyzes user-written text directly in the browser and extracts:
+
+- Key concepts
+- Concept density
+- Co-occurrence relationships
+- Logical clarity signals
+- Interactive concept graph
+- Text refinement suggestions
+- Optional AI-powered prompt generation
+
+All core analysis runs locally in the browser.
 
 ---
 
-## 🚀 Features
+## 🚀 Project Status
 
-- Concept extraction
-- Keyword density analysis
-- Co-occurrence graph visualization
-- Logical clarity scoring
-- Text refinement engine
-- Optional AI-powered prompt builder
-- Multi-language support
+This project is currently in **DEMO phase**.
+
+Core features are functional.
+Some advanced features (membership system, cloud sync, premium AI tools) are planned for future versions.
 
 ---
 
-## 🔐 Privacy First
+## 🌍 Operating System Compatibility
 
-InsightGraph performs text analysis directly in the browser.
-Your text is not sent to any server for core analysis.
+InsightGraph is a web-based application and is fully compatible with:
 
-AI features are optional and require user-provided API access.
+- Windows
+- macOS
+- Linux
+- Pardus
+- Ubuntu
+- Debian-based systems
+- Any OS capable of running Node.js 18+
 
----
+Because it is built using React + Vite, the development environment works cross-platform.
 
-## 🛠 Tech Stack
+To run locally:
 
-- React
-- TypeScript
-- Tailwind CSS
-- D3 (Graph)
-- Vite
-
----
-
-## ⚙ Installation
-
-```bash
-npm install
-npm run dev
